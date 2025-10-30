@@ -6,8 +6,7 @@
 # 🌈 Accent
 
 [![License](https://img.shields.io/github/license/kapilhadoltikar/Accent)](LICENSE) [![Issues](https://img.shields.io/github/issues/kapilhadoltikar/Accent)](https://github.com/kapilhadoltikar/Accent/issues) [![Last Commit](https://img.shields.io/github/last-commit/kapilhadoltikar/Accent)](https://github.com/kapilhadoltikar/Accent) [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
-[![Downloads](https://img.shields.io/github/downloads/kapilhadoltikar/Accent/total?color=brightgreen)](https://github.com/kapilhadoltikar/Accent/releases)
-[![Latest Release](https://img.shields.io/github/v/release/kapilhadoltikar/Accent?color=blue&label=latest)](https://github.com/kapilhadoltikar/Accent/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/kapilhadoltikar/Accent/total?color=brightgreen)](https://github.com/kapilhadoltikar/Accent/)
 
 
 **Accent** is a lightweight Windows utility designed to make switching your system’s appearance effortless.  
