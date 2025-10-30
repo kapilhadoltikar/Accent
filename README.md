@@ -30,7 +30,7 @@ With just two click, you can toggle between **Light** and **Dark** modes, or set
 
 - **Windows 10 or Windows 11**  
 - Administrator privileges (for system theme/accent changes)  
-- <a href="https://adoptium.net/temurin/releases?version=21" target="blank"> Java (JRE or JDK) 21+ LTS </a> version recommended. 
+- <a href="https://www.oracle.com/in/java/technologies/downloads/" target="blank"> Java (JRE or JDK) 21+ LTS </a> version recommended. 
 
 ---
 
