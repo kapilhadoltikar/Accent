@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/images/img1.png" alt="Light Mode" width="150">
+  <img src="docs/images/img1.png" alt="Light Mode" width="150" height="150">
 </p>
 
 # 🌈 Accent
@@ -38,9 +38,9 @@ With just two click, you can toggle between **Light** and **Dark** modes, or set
 
 1. Download the latest release jar executable from the [Releases page](https://github.com/kapilhadoltikar/Accent).  
 2. Run (Double Click) the executable ( .jar).
-3. <img src="docs/images/img1.png" alt="Light Mode" width="25"> this icon will appear on system tray.
-4. right click on icon and select Toggle Dark/Light Mode.
-5. this will change the system theme. 
+3. <img src="docs/images/img1.png" alt="Light Mode" width="25" height="25"> this icon will appear on system tray.
+4. Right click on icon and select Toggle Dark/Light Mode.
+5. This will change the system theme. 
 6. Enjoy your systems new look! 🎉
 
    
